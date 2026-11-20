@@ -1,0 +1,6 @@
+{
+  "name": "kontingent",
+  "version": "0.1.0",
+  "description": "Zeigt in jeder Sitzung das Kontingent (5 Stunden, Woche), den Kontext und den Verlauf je Sitzung; nur Anzeige, pausiert nie.",
+  "types": "./types/index.d.ts"
+}
